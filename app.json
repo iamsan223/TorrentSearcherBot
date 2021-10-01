@@ -23,11 +23,11 @@
         },
         "START_MESSAGE": {
             "description": "",
-            "value": "*Hi ! I am a simple torrent searcher using @sjprojects's Torrent Searcher api.\n\n\nMade with 🐍 by @KeralasBots*"
+            "value": "*Hi ! I am a simple torrent searcher using @KevinDaGoat 's Torrent Searcher api.\n\n\nMade with 🐍 by @KevinDaGoat *"
         },
         "FOOTER_TEXT": {
             "description": "",
-            "value": "*Made with ❤️ by @KeralasBots*",
+            "value": "*Made with ❤️ by @KevinDaGoat *",
             "required": false
         }
     },
